@@ -1,3 +1,4 @@
 # apna-college-demo
-this is my first git reposetri
-author-hajat ali kharr
+this is my first git reposetri.
+</br>
+Author-Hajat ali kharr
